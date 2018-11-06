@@ -1,4 +1,4 @@
-# SHA256
+# SHA256 - GUI INCLUDED !!!
 
 Pequeño programa que calcula la función resumen de una cadena usando el algoritmo SHA256 y permite copiar la salida al portapapels. También tiene la opción de añadir sal.
 
